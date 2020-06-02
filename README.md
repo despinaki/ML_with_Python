@@ -1,2 +1,2 @@
 # ML_with_Python
-Machine Learning algorithms with examples
+Machine Learning algorithms with examples.
